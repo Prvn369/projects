@@ -18,7 +18,11 @@ let createCard = (image, title, link) => {
 }
 
 createCard("random-color-change.png", "Random Color Changer", "https://prvn369.github.io/random_color_change/")
+createCard("clock.png", "Digital Clock", "https://prvn369.github.io/clock/")
 
+createCard("card-design.png", "Card Design", "https://prvn369.github.io/card-design/")
+createCard("clock.png", "Digital Clock", "https://prvn369.github.io/clock/")
+createCard("clock.png", "Digital Clock", "https://prvn369.github.io/clock/")
 createCard("clock.png", "Digital Clock", "https://prvn369.github.io/clock/")
 
 
