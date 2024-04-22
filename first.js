@@ -17,7 +17,9 @@ let createCard = (image, title, link) => {
         container.innerHTML = container.innerHTML + html
 }
 
-createCard("img.jpg", "the game changer", "jjdnfjdf")
+createCard("random-color-change.png", "Random Color Changer", "https://prvn369.github.io/random_color_change/")
+
+createCard("clock.png", "Digital Clock", "https://prvn369.github.io/clock/")
 
 
 
