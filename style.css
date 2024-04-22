@@ -186,3 +186,25 @@ body{
         font-size: 1em;
     }
 }
+
+@media(max-width:500px) {
+   
+    .nav ul {
+        gap: 2rem;
+
+    }
+
+    .nav ul li {
+        font-size: .7rem;
+    }
+
+}
+
+@media(max-width:350px) {
+
+    .nav ul {
+        gap: 1.4rem;
+
+    }
+
+}
